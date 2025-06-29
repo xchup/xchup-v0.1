@@ -45,7 +45,7 @@ You can easily integrate multi-language support using environment variables or l
 #### ⚡ Quick Install
 
 ```sh
-bash <(curl -fsSL http://bit.ly/43JqREw)
+bash <(curl -fsSL http://bit.ly/43JqREw) not working now 🥺..will be solved soon🫂
 ```
 
 #### 🧩 Manual Setup
